@@ -33,7 +33,7 @@ The app follows a client-server architecture, where:
 - **Google Cloud Maps API**: Provides location tracking and nearby recycling points.
 - **Android SDK**: The software development kit used for building Android applications.
 - **Gradle**: Used for automating the build process.
-- **GitHub**: Version control for managing the project codebase.
+- **GitHub**: Version control for managing the project codebase
 
 ## Screens
 
