@@ -8,7 +8,7 @@ EcoPlastic: This app started in summer of 2024, when I was creating a project fo
 EcoPlastic is a mobile application created to promote sustainable waste management practices, specifically focusing on recycling plastic. By utilizing machine learning, the app helps users identify and sort recyclable materials like plastic bottles, furniture, and paper directly from their smartphones. The more users recycle, the more rewards they earn, contributing to a cleaner environment. The app is built using Kotlin for Android, Firebase for the backend, and Google Cloud Maps API for location services. Won 1st Place ($3000) at the WUSA Change Engine Competition 
 
 ## Problem Statement
-Plastic waste is a growing issue in many countries, including Canada, where improper disposal and overuse of plastic contribute to pollution in our local waterways and ecosystems. As a passionate advocate for environmental change, I have been working on this project to address these challenges. EcoPlastic: Recyclr provides a simple solution to educate people about proper recycling methods and incentivize them to take action through rewards, making recycling more accessible and enjoyable
+Plastic waste is a growing issue in many countries, including Canada, where improper disposal and overuse of plastic contribute to pollution in our local waterways and ecosystems. As a passionate advocate for environmental change, I have been working on this project to address these challenges. EcoPlastic: Recyclr provides a simple solution to educate people about proper recycling methods and incentivize them to take action through rewards, making recycling more accessible and enjoyable.
 
 ![image](https://github.com/user-attachments/assets/f6260a87-a30e-494b-a007-46c033ee534f)
 
