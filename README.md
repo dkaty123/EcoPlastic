@@ -2,7 +2,7 @@
 
 # Landing Page : https://ecoplastic.netlify.app/
 
-## Project Overview
+## Project Overviewb
 EcoPlastic: This app started in summer of 2024, when I was creating a project for my position as 1 of 25 Marine Plastic Ambassadors across North Ameria. I wanted to reduce plastic pollution and also combine my tech skills!
 
 EcoPlastic is a mobile application created to promote sustainable waste management practices, specifically focusing on recycling plastic. By utilizing machine learning, the app helps users identify and sort recyclable materials like plastic bottles, furniture, and paper directly from their smartphones. The more users recycle, the more rewards they earn, contributing to a cleaner environment. The app is built using Kotlin for Android, Firebase for the backend, and Google Cloud Maps API for location services. Won 1st Place ($3000) at the WUSA Change Engine Competition 
