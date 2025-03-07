@@ -1,6 +1,6 @@
      
 
-   # EcoPlastic - Smart Recycling App 
+   # EcoPlastic - Smart Recycling App a
  
 # Landing Page : https://ecoplastic.netlify.app/    
    
