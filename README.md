@@ -1,9 +1,5 @@
-                
-     
- 
-   # EcoPlastic - Smart Recycling App   
-    
-# Landing Page : https://ecoplastic.netlify.app/    
+ # EcoPlastic - Smart Recycling App  
+ <img width="2150" height="1674" alt="image" src="https://github.com/user-attachments/assets/75b7eb7e-6236-4f74-9ee1-a7bedad8d6d3" />
    
 ## Project Overview
 EcoPlastic: This app started in summer of 2024, when I was creating a project for my position as 1 of 25 Marine Plastic Ambassadors across North Ameria. I wanted to reduce plastic pollution and also combine my tech skills!
